@@ -3,7 +3,7 @@
 ## Overview
 This challenge involves a comprehensive analysis of an animal study at Pymaceuticals, focusing on screening potential treatments for squamous cell carcinoma (SCC), a prevalent skin cancer. The primary emphasis is on evaluating the effectiveness of Capomulin, a key drug for the management of the symptoms, in comparison to other treatments. The analysis includes data preparation, statistical summaries, and visualizations to provide a holistic view of the study results for the executive team.
 
-##Purpose
+## Purpose
 The purpose is to offer insightful findings from the study data, to make informed decisions about Capomulin's efficacy and potential as an anti-cancer medication. The generated summary statistics, charts, and plots aim to succinctly communicate the comparative impact of Capomulin and other treatment regimens on tumor development. The ultimate goal is to provide a concise yet informative technical report for decision-making.
 
 ![image](https://github.com/Ani2587/matplotlib_challange/assets/17106097/c2ca1e22-68ee-4a13-8213-3a26609b446b)
